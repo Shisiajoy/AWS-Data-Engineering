@@ -10,6 +10,7 @@ rds_user_pwd = "29vqhRAKMgbjtiisnYpw"  # RDS password
 rds_db_name = "Rick_And_Morty"
 bucket_name = "de-masterclass-shisia"   # S3 bucket name
 
+
 def lambda_handler(event, context):
     try:
         # Read transformed data from S3
