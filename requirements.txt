@@ -1,0 +1,6 @@
+pandas
+requests
+jupyter
+boto3
+smart_open
+pymysql
