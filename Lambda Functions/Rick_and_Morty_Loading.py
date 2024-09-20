@@ -4,9 +4,9 @@ import pymysql.cursors
 import s3_file_operations as s3_ops
 
 # RDS configurations
-rds_host = "rick-and-morty-instance.c5ggacw00v0v.eu-west-1.rds.amazonaws.com"  # RDS endpoint
-rds_username = "admin"
-rds_user_pwd = "29vqhRAKMgbjtiisnYpw"  # RDS password
+rds_host = "****************"  # RDS endpoint
+rds_username = "*******"
+rds_user_pwd = "*******"  # RDS password
 rds_db_name = "Rick_And_Morty"
 bucket_name = "de-masterclass-shisia"   # S3 bucket name
 
