@@ -1,6 +1,7 @@
 ## AWS-Data-Engineering 
     RICK AND MORTY DATABASE ETL
 
+
 ### PROJECT OVERVIEW
 
 This project demonstrates an ETL (Extract, Transform, Load) to extract data from the Rick and Morty API, transform it into a structured format, and load it into an AWS RDS MySQL database for querying. It leverages AWS Lambda, S3, and RDS, with Python scripts to handle the ETL process.
@@ -31,6 +32,10 @@ The final product allows one to perform insightful queries and visualizations of
 
 
 #### ETL Workflow:
+
+
+![RICK AND MORTY ETL](https://github.com/user-attachments/assets/901875fd-3a93-482d-843b-ad2cf22923af)
+
 
 1.API Extraction:
 
